@@ -18,8 +18,7 @@ The main component of the project is the `project.ipynb` file, which includes th
 
 To run the project and reproduce the results, follow these steps:
 
-1. Clone the repository:
-   git clone https://github.com/samarth-rjoshi/nlp.git
+1. Clone the repository
 
 2. Open the `project.ipynb` file in a Jupyter Notebook environment.
 
